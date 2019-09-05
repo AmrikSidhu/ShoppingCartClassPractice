@@ -15,6 +15,7 @@ public class Main {
 		int age = keyboard.nextInt();
 		int futureAge = age + 10;
 		System.out.println("your Future age will be =  " + futureAge);
+		System.out.println("change1");
 
 	}
 
